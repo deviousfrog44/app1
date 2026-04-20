@@ -1,1 +1,1 @@
-gcc -o app main.c dep/glad.c -ldl -lglfw
+g++ -o app main.cpp dep/glad.c -ldl -lglfw
